@@ -1,10 +1,16 @@
 ---
-title: Aegis Training
-emoji: 🚀
-colorFrom: blue
-colorTo: green
+title: AEGIS Training
+emoji: 🛡️
+colorFrom: red
+colorTo: blue
 sdk: docker
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# AEGIS Training Space
+
+This Space runs GRPO training for Qwen2.5-7B on the AEGIS fleet oversight task.
+
+**Status page is served on port 7860 — refresh to see current training step.**
+
+After training completes, downgrade hardware to CPU basic (free) in Space Settings.
