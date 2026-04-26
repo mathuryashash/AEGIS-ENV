@@ -159,6 +159,7 @@ AEGIS-ENV is the environment where that training happens.
 |----------|------|
 | **Live Environment** | https://huggingface.co/spaces/YashashMathur/aegis_training |
 | **Training Dashboard** | https://yashashmathur-aegis-training.hf.space |
+| **Colab Notebook** | https://colab.research.google.com/drive/1AztAXknSG7vLNgGyZFktIVoOLkCTNlcJ |
 | **Full Blog Post** | See BLOG.md in this repository |
 | **GitHub** | https://github.com/mathuryashash/AEGIS-ENV |
 
@@ -171,6 +172,7 @@ AEGIS-ENV is the environment where that training happens.
 | `train.py` | GRPO training script |
 | `openenv.yaml` | OpenEnv framework manifest |
 | `aegis_training_data_500.json` | 500 scenario dataset |
+| `colab_fixed.ipynb` | Google Colab training notebook |
 | `world_model.py` | WorldModelSimulator |
 | `memory.py` | MemoryLedger for compound attack detection |
 | `demo_dashboard.py` | Gradio demo for presentations |

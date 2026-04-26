@@ -115,6 +115,8 @@ That's what AEGIS-ENV trains. Not an evaluator. An oversight agent that learns.
 
 **🔴 Live Environment:** https://huggingface.co/spaces/YashashMathur/aegis_training
 
+**📓 Colab Notebook:** https://colab.research.google.com/drive/1AztAXknSG7vLNgGyZFktIVoOLkCTNlcJ
+
 **📦 GitHub:** https://github.com/mathuryashash/AEGIS-ENV
 
 The dashboard at the HF Space shows real-time training progress - current step, reward, decision accuracy. Watch it and you can see the model learn.
