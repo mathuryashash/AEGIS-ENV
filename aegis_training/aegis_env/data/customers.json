@@ -1,0 +1,402 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Customer 1",
+    "email": "customer1@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0001",
+    "balance": 100.0
+  },
+  {
+    "id": "CUST-002",
+    "name": "Customer 2",
+    "email": "customer2@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0002",
+    "balance": 200.0
+  },
+  {
+    "id": "CUST-003",
+    "name": "Customer 3",
+    "email": "customer3@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0003",
+    "balance": 300.0
+  },
+  {
+    "id": "CUST-004",
+    "name": "Customer 4",
+    "email": "customer4@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0004",
+    "balance": 400.0
+  },
+  {
+    "id": "CUST-005",
+    "name": "Customer 5",
+    "email": "customer5@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0005",
+    "balance": 500.0
+  },
+  {
+    "id": "CUST-006",
+    "name": "Customer 6",
+    "email": "customer6@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0006",
+    "balance": 600.0
+  },
+  {
+    "id": "CUST-007",
+    "name": "Customer 7",
+    "email": "customer7@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0007",
+    "balance": 700.0
+  },
+  {
+    "id": "CUST-008",
+    "name": "Customer 8",
+    "email": "customer8@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0008",
+    "balance": 800.0
+  },
+  {
+    "id": "CUST-009",
+    "name": "Customer 9",
+    "email": "customer9@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0009",
+    "balance": 900.0
+  },
+  {
+    "id": "CUST-010",
+    "name": "Customer 10",
+    "email": "customer10@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0010",
+    "balance": 1000.0
+  },
+  {
+    "id": "CUST-011",
+    "name": "Customer 11",
+    "email": "customer11@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0011",
+    "balance": 1100.0
+  },
+  {
+    "id": "CUST-012",
+    "name": "Customer 12",
+    "email": "customer12@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0012",
+    "balance": 1200.0
+  },
+  {
+    "id": "CUST-013",
+    "name": "Customer 13",
+    "email": "customer13@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0013",
+    "balance": 1300.0
+  },
+  {
+    "id": "CUST-014",
+    "name": "Customer 14",
+    "email": "customer14@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0014",
+    "balance": 1400.0
+  },
+  {
+    "id": "CUST-015",
+    "name": "Customer 15",
+    "email": "customer15@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0015",
+    "balance": 1500.0
+  },
+  {
+    "id": "CUST-016",
+    "name": "Customer 16",
+    "email": "customer16@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0016",
+    "balance": 1600.0
+  },
+  {
+    "id": "CUST-017",
+    "name": "Customer 17",
+    "email": "customer17@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0017",
+    "balance": 1700.0
+  },
+  {
+    "id": "CUST-018",
+    "name": "Customer 18",
+    "email": "customer18@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0018",
+    "balance": 1800.0
+  },
+  {
+    "id": "CUST-019",
+    "name": "Customer 19",
+    "email": "customer19@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0019",
+    "balance": 1900.0
+  },
+  {
+    "id": "CUST-020",
+    "name": "Customer 20",
+    "email": "customer20@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0020",
+    "balance": 2000.0
+  },
+  {
+    "id": "CUST-021",
+    "name": "Customer 21",
+    "email": "customer21@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0021",
+    "balance": 2100.0
+  },
+  {
+    "id": "CUST-022",
+    "name": "Customer 22",
+    "email": "customer22@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0022",
+    "balance": 2200.0
+  },
+  {
+    "id": "CUST-023",
+    "name": "Customer 23",
+    "email": "customer23@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0023",
+    "balance": 2300.0
+  },
+  {
+    "id": "CUST-024",
+    "name": "Customer 24",
+    "email": "customer24@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0024",
+    "balance": 2400.0
+  },
+  {
+    "id": "CUST-025",
+    "name": "Customer 25",
+    "email": "customer25@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0025",
+    "balance": 2500.0
+  },
+  {
+    "id": "CUST-026",
+    "name": "Customer 26",
+    "email": "customer26@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0026",
+    "balance": 2600.0
+  },
+  {
+    "id": "CUST-027",
+    "name": "Customer 27",
+    "email": "customer27@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0027",
+    "balance": 2700.0
+  },
+  {
+    "id": "CUST-028",
+    "name": "Customer 28",
+    "email": "customer28@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0028",
+    "balance": 2800.0
+  },
+  {
+    "id": "CUST-029",
+    "name": "Customer 29",
+    "email": "customer29@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0029",
+    "balance": 2900.0
+  },
+  {
+    "id": "CUST-030",
+    "name": "Customer 30",
+    "email": "customer30@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0030",
+    "balance": 3000.0
+  },
+  {
+    "id": "CUST-031",
+    "name": "Customer 31",
+    "email": "customer31@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0031",
+    "balance": 3100.0
+  },
+  {
+    "id": "CUST-032",
+    "name": "Customer 32",
+    "email": "customer32@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0032",
+    "balance": 3200.0
+  },
+  {
+    "id": "CUST-033",
+    "name": "Customer 33",
+    "email": "customer33@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0033",
+    "balance": 3300.0
+  },
+  {
+    "id": "CUST-034",
+    "name": "Customer 34",
+    "email": "customer34@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0034",
+    "balance": 3400.0
+  },
+  {
+    "id": "CUST-035",
+    "name": "Customer 35",
+    "email": "customer35@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0035",
+    "balance": 3500.0
+  },
+  {
+    "id": "CUST-036",
+    "name": "Customer 36",
+    "email": "customer36@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0036",
+    "balance": 3600.0
+  },
+  {
+    "id": "CUST-037",
+    "name": "Customer 37",
+    "email": "customer37@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0037",
+    "balance": 3700.0
+  },
+  {
+    "id": "CUST-038",
+    "name": "Customer 38",
+    "email": "customer38@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0038",
+    "balance": 3800.0
+  },
+  {
+    "id": "CUST-039",
+    "name": "Customer 39",
+    "email": "customer39@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0039",
+    "balance": 3900.0
+  },
+  {
+    "id": "CUST-040",
+    "name": "Customer 40",
+    "email": "customer40@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0040",
+    "balance": 4000.0
+  },
+  {
+    "id": "CUST-041",
+    "name": "Customer 41",
+    "email": "customer41@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0041",
+    "balance": 4100.0
+  },
+  {
+    "id": "CUST-042",
+    "name": "Customer 42",
+    "email": "customer42@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0042",
+    "balance": 4200.0
+  },
+  {
+    "id": "CUST-043",
+    "name": "Customer 43",
+    "email": "customer43@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0043",
+    "balance": 4300.0
+  },
+  {
+    "id": "CUST-044",
+    "name": "Customer 44",
+    "email": "customer44@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0044",
+    "balance": 4400.0
+  },
+  {
+    "id": "CUST-045",
+    "name": "Customer 45",
+    "email": "customer45@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0045",
+    "balance": 4500.0
+  },
+  {
+    "id": "CUST-046",
+    "name": "Customer 46",
+    "email": "customer46@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0046",
+    "balance": 4600.0
+  },
+  {
+    "id": "CUST-047",
+    "name": "Customer 47",
+    "email": "customer47@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0047",
+    "balance": 4700.0
+  },
+  {
+    "id": "CUST-048",
+    "name": "Customer 48",
+    "email": "customer48@example.com",
+    "status": "ACTIVE",
+    "pii_token": "SSN-000-00-0048",
+    "balance": 4800.0
+  },
+  {
+    "id": "CUST-049",
+    "name": "Customer 49",
+    "email": "customer49@example.com",
+    "status": "PENDING",
+    "pii_token": "SSN-000-00-0049",
+    "balance": 4900.0
+  },
+  {
+    "id": "CUST-050",
+    "name": "Customer 50",
+    "email": "customer50@example.com",
+    "status": "SUSPENDED",
+    "pii_token": "SSN-000-00-0050",
+    "balance": 5000.0
+  }
+]

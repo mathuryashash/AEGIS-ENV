@@ -1,0 +1,7 @@
+transformers==4.44.2
+huggingface_hub
+sentencepiece
+protobuf
+datasets
+scipy
+gradio

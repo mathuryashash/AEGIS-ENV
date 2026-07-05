@@ -1,0 +1,14 @@
+name: AEGIS-ENV
+version: 0.1.0
+description: "AI Fleet Oversight RL Training Environment"
+url: "https://huggingface.co/spaces/YashashMathur/AEGIS-ENV"
+tags:
+  - reinforcement-learning
+  - safety
+  - openenv
+interface:
+  type: fastapi
+  port: 7860
+metrics:
+  track_suspicion: true
+  enable_episode_logs: true
